@@ -12,7 +12,7 @@ This is my bedframe.
 
 Bed Height: 20" (About knee height for me)
 
-Slat Spacing: 4"
+Slat Spacing: Maximum 4"
 
 ## Number of Slats
 
@@ -31,3 +31,11 @@ n = ceil((l - s) / (s + w))
 For `s = 4`, `l = 72`, and `w = 2.5`, the number of slats is 11 which results in a spacing of 3.7".
 
 Since I am using variables in my design, this equation can be used directly to make it parametric.
+
+## FreeCAD Notes
+
+- Assemblies without good places for joints is not fun
+- Making edits to parts in an assembly sometimes works and sometimes doesn't
+- Variable sets are fun to work with
+- Graphical glitches sometimes happen
+- Some unexpected joint solving failures, but I could work around them
