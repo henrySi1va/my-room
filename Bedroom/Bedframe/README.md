@@ -35,7 +35,8 @@ Since I am using variables in my design, this equation can be used directly to m
 ## FreeCAD Notes
 
 - Assemblies without good places for joints is not fun
-- Making edits to parts in an assembly sometimes works and sometimes doesn't
+- Making edits to parts in an assembly sometimes breaks assembly (depends on the change)
+- It helps to already have the part near the right place when making a joint
 - Variable sets are fun to work with
 - Graphical glitches sometimes happen
 - Some unexpected joint solving failures, but I could work around them
