@@ -40,3 +40,5 @@ Since I am using variables in my design, this equation can be used directly to m
 - Variable sets are fun to work with
 - Graphical glitches sometimes happen
 - Some unexpected joint solving failures, but I could work around them
+- Joint solving failures, but still worked 😕
+- Working with the assembly makes the fans run
