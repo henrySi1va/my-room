@@ -42,3 +42,4 @@ Since I am using variables in my design, this equation can be used directly to m
 - Some unexpected joint solving failures, but I could work around them
 - Joint solving failures, but still worked 😕
 - Working with the assembly makes the fans run
+- Moving many components at once is very intense
