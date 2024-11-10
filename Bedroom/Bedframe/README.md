@@ -14,6 +14,19 @@ Bed Height: 20" (About knee height for me)
 
 Slat Spacing: Maximum 4"
 
+## Parts List
+
+|     Part     | Quantity |     Description     |
+|--------------|----------|---------------------|
+| 4.41' x 2x6  | 2        | Foot and Head       |
+| 6.00' x 2x6  | 2        | Sides               |
+| 6.00' x 1x3  | 3        | Rails and Support   |
+| 4.17' x 1x3  | 11       | Slats               |
+| 6.75" x 4x4  | 4        | Feet                |
+| 2" Wood Screw| 8        |                     |
+| 3" Wood Screw| 20       |                     |
+| 1 1/4" Nail  | 22       |                     |
+
 ## Number of Slats
 
 The following equation calculates the spacing between slats `s` for a given length `l`, slat width `w`, and number of slats `n`:
